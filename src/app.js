@@ -15,4 +15,3 @@ app.set("view engine", "ejs");
 app.use("/", home);
  
 module.exports = app;
-
